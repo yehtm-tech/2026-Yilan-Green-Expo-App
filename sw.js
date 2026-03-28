@@ -1,4 +1,4 @@
-const CACHE_NAME = 'chihsingtan-cache-v1';
+const CACHE_NAME = '2026-Yilan-Green-Expo-App';
 const urlsToCache = [
   '/',
   '/index.html',
