@@ -1,11 +1,11 @@
 {
-  "name": "七星潭尋寶任務",
-  "short_name": "七星潭尋寶",
+  "name": "2026 宜蘭綠色博覽會 (Yilan Green Expo) 互動探索",
+  "short_name": "2026 宜蘭綠色博覽會互動探索",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#F0F9FF",
   "theme_color": "#0284C7",
-  "description": "探索七星潭社區的互動式戶外教學任務包",
+  "description": "2026 宜蘭綠色博覽會 (Yilan Green Expo) 互動探索任務包",
   "icons": [
     {
       "src": "icon-192.png",
