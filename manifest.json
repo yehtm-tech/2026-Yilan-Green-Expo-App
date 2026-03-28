@@ -1,11 +1,11 @@
 {
-  "name": "2026 宜蘭綠色博覽會 (Yilan Green Expo) 互動探索",
-  "short_name": "2026 宜蘭綠色博覽會互動探索",
+  "name": "2026 宜蘭綠博探險 App",
+  "short_name": "綠博探險",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#F0F9FF",
-  "theme_color": "#0284C7",
-  "description": "2026 宜蘭綠色博覽會 (Yilan Green Expo) 互動探索任務包",
+  "background_color": "#F8FAFC",
+  "theme_color": "#059669",
+  "description": "化身永續探險家，解開地球的秘密！",
   "icons": [
     {
       "src": "icon-192.png",
